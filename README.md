@@ -8,3 +8,5 @@
 
 ​	最主要的特点是, 内置的方法和字段,比如nil和println,都使用紫色斜体方案, 未导出的方法和字段都是斜体, 可以很清楚的分清包和本地变量,以及局部变量和全局变量,等等
 
+![效果展示](https://github.com/humyPro/color-scheme/blob/master/image/humy-goland01.png "第一款配色方案")
+
